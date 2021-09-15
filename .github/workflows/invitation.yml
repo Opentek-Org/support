@@ -6,12 +6,12 @@ jobs:
   automate_invite:
     runs-on: ubuntu-latest
     steps:
-      - name: invite-on-label
+      - name: Invite on label
         uses: vj-abigo/invite-on-label@v1.2
         with:
           organization: Opentek-Org
-          label: invite me to the organisation
+          label: invite me to the organization
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          comment: '<b>Invitation sent for the GitHub Organisation. Welcome to the community 🎉<br>I hope that helps'
+          comment: 'Welcome to the Org.'
         env:
           INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
