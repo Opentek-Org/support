@@ -1,6 +1,6 @@
-name: Invitation to the GitHub Community Organization
+name: Invitation to the Opentek GitHub Community
 description: I would like to be part of the awesome community
-title: "Please invite me to the GitHub Community Organization"
+title: "Please invite me to the Opentek GitHub Community"
 labels: [invite me to the organisation]
 body:
   - type: input
@@ -21,11 +21,11 @@ body:
     id: Additional
     attributes:
       label: Additional Context
-      description: Where did you meet Eddie? What do you like about this community/Why do you want to join?
+      description: Why do you want to join? and What are your expectations?
     validations:
       required: true
   - type: markdown
     attributes:
       value: |
-        You can also join our Discord community 
-        Feel free to check out other cool repositories of the
+        You can also join our amazing Discord community [here](https://discord.gg/9qyr4Mdc3Y)
+        Feel free to check out other cool repositories of the Opentek Community [here](https://github.com/Opentek-Org)
