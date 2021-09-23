@@ -6,11 +6,11 @@ Raise an [issue to join the Opentek GitHub organisation](https://github.com/Open
 - Navigate to our community page: https://github.com/Opentek-Org
 - Click on the People area:
 
-    ![screenshot](./assets/1.png)
+    ![screenshot](assets/1.png)
 - Enter your username in the highlighted searchbar:
-    ![screenshot](./assets/2.png)
+    ![screenshot](assets/2.png)
 - Click `Private` (the default) and set it to `Public`
-    ![screenshot](./assets/3.png)
+    ![screenshot](assets/3.png)
 
 ## Socials
 
