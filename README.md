@@ -7,9 +7,13 @@ Raise an [issue to join the Opentek GitHub organisation](https://github.com/Open
 - Click on the People area:
 
     ![screenshot](https://i.postimg.cc/gJZKnZXg/1.png)
+    
 - Enter your username in the highlighted searchbar:
+
     ![screenshot](https://i.postimg.cc/8cgmWzLN/2.png)
+
 - Click `Private` (the default) and set it to `Public`
+
     ![screenshot](https://i.postimg.cc/L6T3YR5F/3.png)
 
 ## Socials
