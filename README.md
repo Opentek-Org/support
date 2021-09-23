@@ -7,7 +7,7 @@ Raise an [issue to join the Opentek GitHub organisation](https://github.com/Open
 - Click on the People area:
 
     ![screenshot](https://i.postimg.cc/gJZKnZXg/1.png)
-    
+
 - Enter your username in the highlighted searchbar:
 
     ![screenshot](https://i.postimg.cc/8cgmWzLN/2.png)
@@ -20,3 +20,6 @@ Raise an [issue to join the Opentek GitHub organisation](https://github.com/Open
 
 Join our Discord community [here](https://discord.gg/9qyr4Mdc3Y)   
 Follow our LinkedIn Page [here](https://www.linkedin.com/company/opentekorg/)
+<hr>
+
+Thanks [vj-abigo](https://github.com/vj-abigo/invite-on-label) and [eddiehub](https://github.com/EddieHubCommunity)
